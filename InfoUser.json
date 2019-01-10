@@ -64,5 +64,27 @@
       },
       "image":"https://cdn-images-1.medium.com/max/800/1*KBhZGtrJX3Xiq6P28mkXMw.jpeg",
       "storyLink":"domain registrars dns and hosting free code camp medium"
+   },
+   {
+      "id":"5705147521e4340940263b96",
+      "headline":"Wordpress, Joomla domains under attack through jQuery JavaScript library | ZDNet",
+      "timePosted":1459950709897,
+      "link":"http://zdnet.com/article/wordpress-joomla-domains-under-attack-through-jquery-security-flaw",
+      "metaDescription":"Abuse of the JavaScript library has led to over 4.5 million recent exposures to infection.",
+      "description":"undefined",
+      "rank":1,
+      "upVotes":[
+         {
+            "upVotedBy":"5634ce38306a67d61c775526",
+            "upVotedByUsername":"brainyfarm"
+         }
+      ],
+      "author":{
+         "picture":"https://avatars.githubusercontent.com/u/11624587?v=3",
+         "userId":"5634ce38306a67d61c775526",
+         "username":"brainyfarm"
+      },
+      "image":"http://zdnet3.cbsistatic.com/hub/i/r/2016/04/04/1657ea5f-bcfb-4a1e-aed4-42f92ef64772/thumbnail/770x578/c2e9249bea7bff4e8e4b017efcec44bf/screen-shot-2016-04-04-at-10-31-51.jpg",
+      "storyLink":"wordpress joomla domains under attack through jquery javascript library zdnet 1"
    }
   ]
