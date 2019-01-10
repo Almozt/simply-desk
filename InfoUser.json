@@ -108,5 +108,27 @@
       },
       "image":"https://2.bp.blogspot.com/-LwcLrgE4FB0/VvsBS-v1QQI/AAAAAAAFHc4/UOQcD60YwGIHAuZ6hFQjEOoSeIE8xrqEQ/w1200-h630-p-nu/u-on-w.png",
       "storyLink":"from the canyon edge ubuntu on windows the ubuntu userspace for windows developers"
+   },
+      {
+      "id":"56fc0bef960b62491c59f96d",
+      "headline":"  Introducing Safari Technology Preview | WebKit",
+      "timePosted":1459358703655,
+      "link":"https://webkit.org/blog/6017/introducing-safari-technology-preview/",
+      "metaDescription":"",
+      "description":"undefined",
+      "rank":1,
+      "upVotes":[
+         {
+            "upVotedBy":"55a0fafad9e6d9240c6a3735",
+            "upVotedByUsername":"guptarohit"
+         }
+      ],
+      "author":{
+         "picture":"https://avatars.githubusercontent.com/u/7895001?v=3",
+         "userId":"55a0fafad9e6d9240c6a3735",
+         "username":"guptarohit"
+      },
+      "image":"",
+      "storyLink":"introducing safari technology preview webkit"
    }
   ]
