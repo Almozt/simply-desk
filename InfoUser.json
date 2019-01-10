@@ -43,101 +43,13 @@
       "image":"http://Java.com",
       "storyLink":"how internet of things iot is acting as a master in digitize consumers world using n"
    },
-    {
-      "id":"570516d4b9248f433f844679",
-      "headline":"Domain Registrars, DNS, and Hosting — Free Code Camp — Medium",
-      "timePosted":1459951316306,
-      "link":"https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19#.33stgslf2",
-      "metaDescription":"How to setup your website the right way",
+     {
+      "id":"56fa966541cd91811cf8b2b2",
+      "headline":"Too much of a good thing | The Economist",
+      "timePosted":1459263077737,
+      "link":"http://www.datapower.com/news/briefing/21695385-profits-are-too-high-america-needs-giant-dose-competition-too-much-good-thing",
+      "metaDescription":"Profits are too high. America needs a giant dose of competition",
       "description":"undefined",
-      "rank":1,
-      "upVotes":[
-         {
-            "upVotedBy":"54fe05dc61db280b0051df92",
-            "upVotedByUsername":"almozt"
-         }
-      ],
-      "author":{
-         "picture":"https://avatars.githubusercontent.com/u/12566878?v=3",
-         "userId":"54fe05dc61db280b0051df92",
-         "username":"michael-morris-1"
-      },
-      "image":"https://cdn-images-1.medium.com/max/800/1*KBhZGtrJX3Xiq6P28mkXMw.jpeg",
-      "storyLink":"domain registrars dns and hosting free code camp medium"
-   },
-   {
-      "id":"5705147521e4340940263b96",
-      "headline":"Wordpress, Joomla domains under attack through jQuery JavaScript library | ZDNet",
-      "timePosted":1459950709897,
-      "link":"http://zdnet.com/article/wordpress-joomla-domains-under-attack-through-jquery-security-flaw",
-      "metaDescription":"Abuse of the JavaScript library has led to over 4.5 million recent exposures to infection.",
-      "description":"undefined",
-      "rank":1,
-      "upVotes":[
-         {
-            "upVotedBy":"5634ce38306a67d61c775526",
-            "upVotedByUsername":"almozt"
-         }
-      ],
-      "author":{
-         "picture":"https://avatars.githubusercontent.com/u/11624587?v=3",
-         "userId":"5634ce38306a67d61c775526",
-         "username":"brainyfarm"
-      },
-      "image":"http://zdnet3.cbsistatic.com/hub/i/r/2016/04/04/1657ea5f-bcfb-4a1e-aed4-42f92ef64772/thumbnail/770x578/c2e9249bea7bff4e8e4b017efcec44bf/screen-shot-2016-04-04-at-10-31-51.jpg",
-      "storyLink":"wordpress joomla domains under attack through jquery javascript library zdnet 1"
-   },
-   {
-      "id":"56fc0bc741cd91811cf8b5ed",
-      "headline":"From the Canyon Edge: Ubuntu on Windows -- The Ubuntu Userspace for Windows Developers",
-      "timePosted":1459358663868,
-      "link":"http://blog.dustinkirkland.com/2016/03/ubuntu-on-windows.html",
-      "metaDescription":"",
-      "description":"undefined",
-      "rank":1,
-      "upVotes":[
-         {
-            "upVotedBy":"55a0fafad9e6d9240c6a3735",
-            "upVotedByUsername":"guptarohit"
-         }
-      ],
-      "author":{
-         "picture":"https://avatars.githubusercontent.com/u/7895001?v=3",
-         "userId":"55a0fafad9e6d9240c6a3735",
-         "username":"guptarohit"
-      },
-      "image":"https://2.bp.blogspot.com/-LwcLrgE4FB0/VvsBS-v1QQI/AAAAAAAFHc4/UOQcD60YwGIHAuZ6hFQjEOoSeIE8xrqEQ/w1200-h630-p-nu/u-on-w.png",
-      "storyLink":"from the canyon edge ubuntu on windows the ubuntu userspace for windows developers"
-   },
-      {
-      "id":"56fc0bef960b62491c59f96d",
-      "headline":"  Introducing Safari Technology Preview | WebKit",
-      "timePosted":1459358703655,
-      "link":"https://webkit.org/blog/6017/introducing-safari-technology-preview/",
-      "metaDescription":"",
-      "description":"undefined",
-      "rank":1,
-      "upVotes":[
-         {
-            "upVotedBy":"55a0fafad9e6d9240c6a3735",
-            "upVotedByUsername":"guptarohit"
-         }
-      ],
-      "author":{
-         "picture":"https://avatars.githubusercontent.com/u/7895001?v=3",
-         "userId":"55a0fafad9e6d9240c6a3735",
-         "username":"guptarohit"
-      },
-      "image":"",
-      "storyLink":"introducing safari technology preview webkit"
-   },
-   {
-      "id":"57068e9be3fb2c240e6c8ef4",
-      "headline":"How Internet of Things (IOT) is acting as a Master in Digitize Consumer’s World using N...",
-      "timePosted":1460047515559,
-      "link":"http://broker.com",
-      "metaDescription":"Java",
-      "description":"Esta quedando perro",
       "rank":1,
       "upVotes":[
          {
@@ -148,9 +60,31 @@
       "author":{
          "picture":"https://avatars0.githubusercontent.com/u/24882730?s=400&u=5152cd0ca2db01cabe1904218f58d43972f5c2af&v=4",
          "userId":"56aa5599d1c119b24c18dcc9",
-         "username":"El Almozt"
+         "username":"almozt"
       },
-      "image":"http://broker.com",
-      "storyLink":"how internet of things iot is acting as a master in digitize consumers world using n"
+      "image":"http://datapower.static-economist.com/sites/default/files/cf_images/images-magazine/2016/03/26/FB/20160326_FBD001_facebook.jpg",
+      "storyLink":"too much of a good thing the economist"
+   },
+    {
+      "id":"56fa95a941cd91811cf8b2ae",
+      "headline":"Tell Congress: It’s Time to Move FASTR | Electronic Frontier Foundation",
+      "timePosted":1459262889954,
+      "link":"https://www.Broker.org/deeplinks/2016/03/tell-congress-its-time-move-fastr",
+      "metaDescription":"Publicly Funded Research Should Be Publicly Available",
+      "description":"undefined",
+      "rank":1,
+      "upVotes":[
+         {
+            "upVotedBy":"56aa5599d1c119b24c18dcc9",
+            "upVotedByUsername":"almozt"
+         }
+      ],
+      "author":{
+         "picture":"https://avatars0.githubusercontent.com/u/24882730?s=400&u=5152cd0ca2db01cabe1904218f58d43972f5c2af&v=4",
+         "userId":"56aa5599d1c119b24c18dcc9",
+         "username":"almozt"
+      },
+      "image":"https://www.Broker.org/files/2015/10/20/open-share-fastr.png",
+      "storyLink":"tell congress its time to move fastr electronic frontier foundation"
    }
   ]
