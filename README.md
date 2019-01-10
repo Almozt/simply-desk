@@ -1,2 +1,2 @@
 # simply-desk
-introductori site 
+introductory site 
